@@ -1,2 +1,7 @@
 # ximalaya
-ximalaya download
+### 喜马拉雅音频下载
+`https://zhuanlan.zhihu.com/p/587392591`
+1. Chrome浏览器的脚本管理扩展程序，名叫Tampermonkey，或者称“油猴。
+2. 接着安装用户脚本，你可以访问 https://greasyfork.org/ 这个网站，然后搜索“喜马拉雅专辑下载器”进行安装。
+3. 安装完成后，打开喜马拉雅网站，进入专辑页面，点击左边新出现的下载按钮即可下载专辑中的音频。
+4. 运行本程序可以重命名音频文件。
